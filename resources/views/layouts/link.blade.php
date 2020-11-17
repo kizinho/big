@@ -1,0 +1,11 @@
+  <li><a href="{{url('home')}}">account</a></li>
+            <li><a href="{{url('deposit')}}">deposit</a></li>
+            <li><a href="{{url('withdraw')}}">Withdraw</a></li>
+            <li><a href="{{url('deposit_list')}}">deposit list</a></li>
+            <li><a href="{{url('deposit_history')}}">deposit history</a></li>
+            <li><a href="{{url('withdraw_history')}}">withdraw history</a></li>
+            <li><a href="{{url('earnings')}}">Earning</a></li>
+            <li><a href="{{url('referals')}}">Referral</a></li>
+            <li><a href="{{url('referallinks')}}">Referral Link</a></li>
+            <li><a href="{{url('edit_account')}}">Edit Account</a></li>
+<!--            <li><a href="{{url('security')}}">Security</a></li>-->
