@@ -49,7 +49,7 @@
                     <div class="card-header" id="headingOne">
                       <h5 class="mb-0">
                         <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                      Who can participate in CapitalFlow? Dot you accept investors from different countries?
+                      Who can participate in GlobalGreen? Dot you accept investors from different countries?
                         </button>
                       </h5>
                     </div>
@@ -82,7 +82,7 @@
                     <div class="card-header" id="headingThree">
                       <h5 class="mb-0">
                         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                        Who can participate in CapitalFlow? Dot you accept investors from different countries?
+                        Who can participate in GlobalGreen? Dot you accept investors from different countries?
                         </button>
                       </h5>
                     </div>
@@ -92,24 +92,7 @@
                       </div>
                     </div>
                   </div>
-                    
-                    
-                 <div class="card">
-                    <div class="card-header" id="headingFour">
-                      <h5 class="mb-0">
-                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                          Who Manages The Funds?
-                        </button>
-                      </h5>
-                    </div>
-                    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
-                      <div class="card-body">
-                      All funds are managed by our team that consists of professional well networked traders, investors, lawyers, financial specialists and research analysts who work together to assist our clients to accomplishing optimal returns.
-                      </div>
-                    </div>
-                  </div>
-                    
-        
+                
                     
                     
                 <div class="card">
@@ -190,7 +173,7 @@
                     </div>
                     <div id="collapse-9" class="collapse" aria-labelledby="heading-9" data-parent="#accordion">
                       <div class="card-body">
-                     Your can withdraw daily
+                     Your can withdraw weekly, precsely fridy.
                       </div>
                     </div>
                   </div>

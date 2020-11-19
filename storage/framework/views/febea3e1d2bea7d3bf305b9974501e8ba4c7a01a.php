@@ -16,9 +16,9 @@
     }
     .info-about-us .about-us-item span  {
 
-    background: #ff7e00!important;
+        background: #ff7e00!important;
 
-}
+    }
 </style>
 <?php $__env->stopSection(); ?>
 
@@ -40,7 +40,7 @@
                                     <h2 style="color:#fff!important">Welcome <br/>to GlobalGreen Investment </h2>
                                     <p></p>
                                     <div class="text-header" style="color:#fff!important"><h5>We understand your goals and how to make your money work for you.</h5></div>
-                             
+
                                     <div class="banner-btn">
                                         <?php if(auth()->guard()->check()): ?>
                                         <a href="<?php echo e(url('home')); ?>" data-lity class="play-video"><div class="play"><i class="fa fa-angle-double-right"></i></div> <span>Dashboard</span></a>
@@ -62,9 +62,9 @@
                                 <div class="">
 
 
-                                
-                                
-                                
+
+
+
                                 </div>
                             </div>
                         </div>   
@@ -191,6 +191,9 @@
     </div>
 
 </section>
+<div class="text-center mb-3 mt-3">
+   <b> CRYPTOCURRENCIES , COINS OF THE FUTURE</b>
+</div>
 <div style="height:433px; background-color: #FFFFFF; overflow:hidden; box-sizing: border-box; border: 1px solid #56667F; border-radius: 4px; text-align: right; line-height:14px; font-size: 12px; font-feature-settings: normal; text-size-adjust: 100%; box-shadow: inset 0 -20px 0 0 #56667F; padding: 0px; margin: 0px; width: 100%;"><div style="height:413px; padding:0px; margin:0px; width: 100%;"><iframe src="https://widget.coinlib.io/widget?type=full_v2&theme=light&cnt=6&pref_coin_id=1505&graph=yes" width="100%" height="409px" scrolling="auto" marginwidth="0" marginheight="0" frameborder="0" border="0" style="border:0;margin:0;padding:0;"></iframe></div><div style="color: #FFFFFF; line-height: 14px; font-weight: 400; font-size: 11px; box-sizing: border-box; padding: 2px 6px; width: 100%; font-family: Verdana, Tahoma, Arial, sans-serif;"><a href="https://coinlib.io" target="_blank" style="font-weight: 500; color: #FFFFFF; text-decoration:none; font-size:11px">Cryptocurrency Prices</a>&nbsp;by Global Green</div></div>  <!--==================================================================== 
                                                         End Section About Us One
         =====================================================================-->
@@ -279,32 +282,6 @@
     </div>
 </section>    
 
-<!--==================================================================== 
-                                                    End Section Services
-    =====================================================================-->
-<!--==================================================================== 
-                                                       Start Bar Get A Free
-       =====================================================================-->
-<div class="bar-get bar-get-two">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-8">
-                <h2><span>Join us now </span> and Start making Profit</h2>
-            </div>
-            <div class="col-md-4">
-                <div class="btn-get-free">
-                    <a href="<?php echo e(url('register')); ?>" class="btn-one">Get Started</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!--==================================================================== 
-                                                    End Bar Get A Free
-    =====================================================================-->
-<!--==================================================================== 
-                                                        Start Work Process
-        =====================================================================-->
 <div class="work-process pt-120">
     <div class="overlay"></div>
     <div class="container">
@@ -313,8 +290,7 @@
 
             <div class="col-md-8 offset-md-2">
                 <div class="section-title text-center">
-                    <h2 class="color-gray"> Work Process</h2>
-                    <h3 class="color-white"> HOW DOES IT WORK? </h3>
+                    <h3 class="color-white"> Our Teams </h3>
                     <div class="line-title"></div>
                 </div>      
             </div>
@@ -324,89 +300,72 @@
         <div class="row content-process">
 
 
-            <div class="col-md-12 no-padding">
+            <div class="col-md-4 mb-4">
+
                 <div class="item-process">
-
-                    <h4>Profitability is our priority</h4>
+                    <img src="<?php echo e(asset('images/teams/tm-1.jpg')); ?>" style="width: 100%; height:200px">
                     <div class="line-process"></div>
-                    <p>The technology developed by GlobalGreen allows us to study the evolution of the main crypto-assets and their prices
-                        in different currencies and operate in the market by using advanced algorithms. After years of research, we have optimized the
-                        system to obtain maximum profitability.
-
-                    <ul>
-                        <li>Real-time monitoring and analysis of the main crypto-assets and their prices in different currencies</li>
-
-                        <li>All algorithms developed to find the best opportunities</li>
-
-                        <li>Optimization and continuous adaptation of the platform</li>
-                    </ul>
+                    <h5> CEO </h5>
+                    <p>
+                 Robert Cosby, CEO GlobalGreen Investments    Mr. Robert joined GlobalGreen in 2008 as Director of Trading & Risk Management. Prior to that, he was with Asset Management Groups in London and Dublin as the Head of Corporate Forex for large international specialist banking. Mr. Robert holds degrees in Computers and Business from the University College Dublin, Ireland and from Lindenwood University, Missouri, USA.
+                     <br/> <br/>
                     </p>
                 </div>
             </div>
 
+            <div class="col-md-4 mb-4">
 
-
-
-
-
-
-
-
-        </div>
-    </div>
-</div>
-<div class="work-process pt-120">
-    <div class="overlay"></div>
-    <div class="container">
-
-        <div class="row"> 
-
-            <div class="col-md-8 offset-md-2">
-                <div class="section-title text-center">
-                    <h3 class="color-white"> How can I participate? </h3>
-                    <div class="line-title"></div>
-                </div>      
+                <div class="item-process">
+                    <img src="<?php echo e(asset('images/teams/tm-2.jpg')); ?>" style="width: 100%; height:200px">
+                    <div class="line-process"></div>
+                    <h5> CFO </h5>
+                    <p>
+                   Sarah Davis, CFO   Mrs. Davis joined GlobalGreen in 2015 as Finance Manager after serving as a Senior Manager at PwC, one of the big 5 global CPA firms. Mrs. Davis holds an LLM in Law, a B.A in Accounting and Information Systems and also an Accounting Certification (CPA).   </p>
+                <br/> <br/> <br/> <br/>
+                </div>
             </div>
 
-        </div>
 
-        <div class="row content-process">
+            <div class="col-md-4 mb-4">
 
-
+                <div class="item-process">
+                    <img src="<?php echo e(asset('images/teams/tm-3.jpg')); ?>" style="width: 100%; height:200px">
+                    <div class="line-process"></div>
+                    <h5> VP Risk Management </h5>
+                    <p>
+                      Leo Fernandez, VP Risk Management  Mr. Fernandez joined GlobalGreen in 2011 after holding positions in  a major accountancy firm in Ireland. He has over 9 years experience in the financial markets.  Mr. Fernandez holds a degree in Single Honours Mathematics from the National University of Ireland, Maynooth, a Master of Science in Finance and Capital Markets from Dublin City University and a Master of Arts in Mathematics from the National University of Ireland, Galway.  
+                  
+                    </p>
+                </div>
+            </div>
             <div class="col-md-4 ">
 
                 <div class="item-process">
-                    <h4>Create an account</h4>
+                    <img src="<?php echo e(asset('images/teams/tm-4.jpg')); ?>" style="width: 100%; height:200px">
                     <div class="line-process"></div>
-                    <p>To register you only need to fill in the registration form and if you have been referred to us, the registration is free.
+                    <h5> VP Compliance </h5>
+                    <p>
+                        Sean Conor, VP Compliance  Mr. Conor joined GlobalGreen in 2015. He has over 15 years’ compliance experience working in the financial services industry. Prior to joining GlobalGreen, he spent 10 years at Citco Bank Nederland N.V as Head of Compliance and MLRO. Mr. Conor is a Certified Anti-Money Laundering Specialist (ACAMS). He also holds diplomas in Compliance from The Irish Institute of Banking and Financial Regulation from the National College of Ireland.
                     </p>
                 </div>
             </div>
-
-
             <div class="col-md-4 ">
+
                 <div class="item-process">
-
-                    <h4>Select Amount</h4>
+                    <img src="<?php echo e(asset('images/teams/tm-5.jpg')); ?>" style="width: 100%; height:200px">
                     <div class="line-process"></div>
-                    <p>Once inside your administration panel, click on deposit to select your preferred investment plan and deposit the amount starting from $100
+                    <h5> Non Executive Director </h5>
+                    <p>
+                        Ralph Peterson, Non Executive Director  Mr. Peterson currently serves as an advisory director for a leading hedge fund firm as well as holding several board. He spent his professional career at the heart of the global capital markets, with the Central Bank of Ireland and culminating as Managing Director with Morgan Stanley’s London Office.
+                     <br/> <br/> <br/> <br/>
                     </p>
                 </div>
             </div>
-
-            <div class="col-md-4 ">
-                <div class="item-process panel-body">
-
-                    <h4>Start making profits</h4>
-                    <div class="line-process"></div>
-                    <p>From the first moment you will begin to receive daily in your account the part that corresponds to you from the profitability obtained by the system the previous day.
-                    </p>
-                </div>
+         <div class="col-md-4 ">
+<iframe width="560" height="650" src="https://www.youtube.com/embed/SgTpXv2QWkY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
-
-
-
-
+            <div class="mb-5"></div>
+            <br/> <br/> <br/> <br/>
         </div>
     </div>
 </div>
