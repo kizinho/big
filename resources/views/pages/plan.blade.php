@@ -34,7 +34,11 @@
 =====================================================================-->
 
 
-
+<style>
+    .section-title .line-title , .btn-one{
+    background: #ff7e00;
+}
+</style>
 <!--==================================================================== 
           Start Section About Us One
 =====================================================================-->
@@ -64,8 +68,7 @@
                     <div class="header-price">
                         <h4>{{$plan->name}}</h4>
                         <div class="value">
-                            <h3>{{number_format($plan->percentage,0)}}<span>%</span></h3>
-                            <span class="per">/ {{$plan->compound->name}}</span>
+                            <span class="per">{{number_format($plan->percentage,0)}}% - {{$plan->compound->name}}</span>
                         </div>                      
                     </div>
 

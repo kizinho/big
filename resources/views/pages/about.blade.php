@@ -38,8 +38,8 @@
                         <div class="overlay-about">
                             <div class="text-overlay">
                                 <div class="pos-text">
-                                    9
-                                    <span>Years Of Experince</span>
+                                  
+                                    <span style="color:blue"><h5>Realising Ambitions Since 2008</h5></span>
                                 </div>
                             </div>
 
@@ -57,7 +57,9 @@
 
                         <p class="mb-25">
                            
-                            Established in 2008 by Robert Cosby. GlobalGreen investment is a professional wealth management company with emphasis on Wealth Creation and Digital Assets across a wide range of traditional and alternative investment options, including fixed income securities. We offer various insured services involved in Blockchain with our prime interest in Digital currency trading, Forex, Real Estate, CBD and Financial Investment planning. Our qualified and licensed financiers manage and provide financial consulting services for investors. Throughout our history, we have strategically positioned ourselves to take advantage of growth opportunities within the global market on behalf of our clients. Our disciplined and consistent approach to investment management has helped us not only to maintain long-term relationships with our clients, but also to continue attracting and retaining good people.
+                            Established in 2008 by Mr.Douglas Hulme. GlobalWealth investment is a professional wealth management
+                            company with emphasis on Wealth Creation and Digital Assets across a wide range of traditional 
+                            and alternative investment options, including fixed income securities. We offer various insured services involved in Blockchain with our prime interest in Digital currency trading, Forex, Real Estate, CBD and Financial Investment planning. Our qualified and licensed financiers manage and provide financial consulting services for investors. Throughout our history, we have strategically positioned ourselves to take advantage of growth opportunities within the global market on behalf of our clients. Our disciplined and consistent approach to investment management has helped us not only to maintain long-term relationships with our clients, but also to continue attracting and retaining good people.
 
 
                     </div>
@@ -136,7 +138,7 @@
                 <div class="career-item">
                 
 
-                    <p>Our team is responsible for an investment entire life cycle and directly accountable for performance. Regional Investment Committee comprises of GlobalGreen’s most senior talents to oversee all accounts and funds.
+                    <p>Our team is responsible for an investment entire life cycle and directly accountable for performance. Regional Investment Committee comprises of GlobalWealth’s most senior talents to oversee all accounts and funds.
                     </p>
                 </div>
             </div>

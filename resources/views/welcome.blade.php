@@ -37,7 +37,7 @@
                         <div class="banner display-table text-left">
                             <div class="info-header table-cell">
                                 <div class="inner-banner" >
-                                    <h2 style="color:#fff!important">Welcome <br/>to GlobalGreen Investment </h2>
+                                    <h2 style="color:#fff!important">Welcome <br/>to GlobalWealth Investment </h2>
                                     <p></p>
                                     <div class="text-header" style="color:#fff!important"><h5>We understand your goals and how to make your money work for you.</h5></div>
 
@@ -160,13 +160,10 @@
 
 
                                 <p class="mb-40">
-                                    GlobalGreen is a modern investment firm mapped out for prospective clients who would like to invest and earn passively through Forex, Crypto, Real Estate, Shares, Bonds and stock trading.
-                                    With over 9 years experience in offering private fund management services, financial quantitative analytics and trading risk assessment. We focus on providing portfolio investment management 
-                                    expertise to investors by leveraging our diverse platform and portfolio management technology.
-                                    <br/><br/>
-                                    Globally we stand transparently as one of the leading advanced proprietary electronic trading firm that explores through the collaboration of Highly
-                                    motivated and intelligent CPT audited trading firm in Europe with a very positive reputation in the industry. Our Experience enables us to understand fully
-                                    the fund management needs of our customers.
+                                 Established in 2008 by Mr.Douglas Hulme. GlobalWealth investment is a professional wealth management
+                            company with emphasis on Wealth Creation and Digital Assets across a wide range of traditional 
+                            and alternative investment options, including fixed income securities. We offer various insured ...
+                                    
                                     <br/><br/>
                                     <a href="{{url('about-us')}}"><button class="btn btn-primary" style="background-color: #ff7e00!important;color:#fff!important">Read more </button></a>
 
@@ -307,7 +304,22 @@
                     <div class="line-process"></div>
                     <h5> CEO </h5>
                     <p>
-                 Robert Cosby, CEO GlobalGreen Investments    Mr. Robert joined GlobalGreen in 2008 as Director of Trading & Risk Management. Prior to that, he was with Asset Management Groups in London and Dublin as the Head of Corporate Forex for large international specialist banking. Mr. Robert holds degrees in Computers and Business from the University College Dublin, Ireland and from Lindenwood University, Missouri, USA.
+                 Mr.Douglas Hulme, CEO GlobalWealth Investments   Mr. Hulme joined GlobalWealth in 2008 as Director of Trading & Risk Management. 
+                 Prior to that, he was with Asset Management Groups in London and Dublin as the Head of Corporate Forex for large international 
+                 specialist banking. Mr.Douglas Hulme holds degrees in Computers and Business from the University College Dublin, 
+                 Ireland and from  University of Lindenwood, Missouri, USA.
+                     <br/>
+                    </p>
+                </div>
+            </div>
+ <div class="col-md-4 mb-4">
+
+                <div class="item-process">
+                    <img src="{{asset('images/teams/tm-7.jpg')}}" style="width: 100%; height:200px">
+                    <div class="line-process"></div>
+                    <h5> COO </h5>
+                    <p>
+               Mr. Logan joined GlobalWealth in 2014 as an Operations Manager after serving at several companies including MicroWorks, Minneapolis, MN as a Chief Operating Officer and also at Insara Tech. Inc. Mr. Logan has 9+ years experience as a change agent, a leader with excellent business acumen and a communicator. Mr. Logan holds a degree in Finance and also an accounting certification (ACCA).
                      <br/> <br/>
                     </p>
                 </div>
@@ -320,7 +332,7 @@
                     <div class="line-process"></div>
                     <h5> CFO </h5>
                     <p>
-                   Sarah Davis, CFO   Mrs. Davis joined GlobalGreen in 2015 as Finance Manager after serving as a Senior Manager at PwC, one of the big 5 global CPA firms. Mrs. Davis holds an LLM in Law, a B.A in Accounting and Information Systems and also an Accounting Certification (CPA).   </p>
+                   Sarah Davis, CFO   Mrs. Davis joined GlobalWealth in 2015 as Finance Manager after serving as a Senior Manager at PwC, one of the big 5 global CPA firms. Mrs. Davis holds an LLM in Law, a B.A in Accounting and Information Systems and also an Accounting Certification (CPA).   </p>
                 <br/> <br/> <br/> <br/>
                 </div>
             </div>
@@ -333,7 +345,7 @@
                     <div class="line-process"></div>
                     <h5> VP Risk Management </h5>
                     <p>
-                      Leo Fernandez, VP Risk Management  Mr. Fernandez joined GlobalGreen in 2011 after holding positions in  a major accountancy firm in Ireland. He has over 9 years experience in the financial markets.  Mr. Fernandez holds a degree in Single Honours Mathematics from the National University of Ireland, Maynooth, a Master of Science in Finance and Capital Markets from Dublin City University and a Master of Arts in Mathematics from the National University of Ireland, Galway.  
+                      Leo Fernandez, VP Risk Management  Mr. Fernandez joined GlobalWealth in 2011 after holding positions in  a major accountancy firm in Ireland. He has over 9 years experience in the financial markets.  Mr. Fernandez holds a degree in Single Honours Mathematics from the National University of Ireland, Maynooth, a Master of Science in Finance and Capital Markets from Dublin City University and a Master of Arts in Mathematics from the National University of Ireland, Galway.  
                   
                     </p>
                 </div>
@@ -345,7 +357,7 @@
                     <div class="line-process"></div>
                     <h5> VP Compliance </h5>
                     <p>
-                        Sean Conor, VP Compliance  Mr. Conor joined GlobalGreen in 2015. He has over 15 years’ compliance experience working in the financial services industry. Prior to joining GlobalGreen, he spent 10 years at Citco Bank Nederland N.V as Head of Compliance and MLRO. Mr. Conor is a Certified Anti-Money Laundering Specialist (ACAMS). He also holds diplomas in Compliance from The Irish Institute of Banking and Financial Regulation from the National College of Ireland.
+                        Sean Conor, VP Compliance  Mr. Conor joined GlobalWealth in 2015. He has over 15 years’ compliance experience working in the financial services industry. Prior to joining GlobalWealth, he spent 10 years at Citco Bank Nederland N.V as Head of Compliance and MLRO. Mr. Conor is a Certified Anti-Money Laundering Specialist (ACAMS). He also holds diplomas in Compliance from The Irish Institute of Banking and Financial Regulation from the National College of Ireland.
                     </p>
                 </div>
             </div>
@@ -361,12 +373,13 @@
                     </p>
                 </div>
             </div>
-         <div class="col-md-4 ">
-<iframe width="560" height="650" src="https://www.youtube.com/embed/SgTpXv2QWkY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
+       <div class="col-md-12 ">
+<iframe width="100%" height="100" src="https://www.youtube.com/embed/SgTpXv2QWkY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div
             <div class="mb-5"></div>
             <br/> <br/> <br/> <br/>
         </div>
+        
     </div>
 </div>
 
