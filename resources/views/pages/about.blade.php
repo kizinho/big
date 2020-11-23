@@ -57,7 +57,7 @@
 
                         <p class="mb-25">
                            
-                            Established in 2008 by Mr.Douglas Hulme. GlobalGreen investment is a professional wealth management
+                            Established in 2008 by Mr. Razouk Abdulrahman. Global Green investment is a professional wealth management
                             company with emphasis on Wealth Creation and Digital Assets across a wide range of traditional 
                             and alternative investment options, including fixed income securities. We offer various insured services involved in Blockchain with our prime interest in Digital currency trading, Forex, Real Estate, CBD and Financial Investment planning. Our qualified and licensed financiers manage and provide financial consulting services for investors. Throughout our history, we have strategically positioned ourselves to take advantage of growth opportunities within the global market on behalf of our clients. Our disciplined and consistent approach to investment management has helped us not only to maintain long-term relationships with our clients, but also to continue attracting and retaining good people.
 
@@ -138,7 +138,7 @@
                 <div class="career-item">
                 
 
-                    <p>Our team is responsible for an investment entire life cycle and directly accountable for performance. Regional Investment Committee comprises of GlobalGreen’s most senior talents to oversee all accounts and funds.
+                    <p>Our team is responsible for an investment entire life cycle and directly accountable for performance. Regional Investment Committee comprises of Global Green’s most senior talents to oversee all accounts and funds.
                     </p>
                 </div>
             </div>

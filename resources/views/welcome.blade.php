@@ -37,7 +37,7 @@
                         <div class="banner display-table text-left">
                             <div class="info-header table-cell">
                                 <div class="inner-banner" >
-                                    <h2 style="color:#fff!important">Welcome <br/>to GlobalGreen Investment </h2>
+                                    <h2 style="color:#fff!important">Welcome <br/>to Global Green Investment </h2>
                                     <p></p>
                                     <div class="text-header" style="color:#fff!important"><h5>We understand your goals and how to make your money work for you.</h5></div>
 
@@ -160,7 +160,7 @@
 
 
                                 <p class="mb-40">
-                                 Established in 2008 by Mr.Douglas Hulme. GlobalGreen investment is a professional wealth management
+                                 Established in 2008 by Mr.Douglas Hulme. Global Green investment is a professional wealth management
                             company with emphasis on Wealth Creation and Digital Assets across a wide range of traditional 
                             and alternative investment options, including fixed income securities. We offer various insured ...
                                     
@@ -304,10 +304,7 @@
                     <div class="line-process"></div>
                     <h5> CEO </h5>
                     <p>
-                 Mr.Douglas Hulme, CEO GlobalGreen Investments   Mr. Hulme joined GlobalGreen in 2008 as Director of Trading & Risk Management. 
-                 Prior to that, he was with Asset Management Groups in London and Dublin as the Head of Corporate Forex for large international 
-                 specialist banking. Mr.Douglas Hulme holds degrees in Computers and Business from the University College Dublin, 
-                 Ireland and from  University of Lindenwood, Missouri, USA.
+               Mr. Hulme joined Global Green in 2010 as Director of Trading & Risk Management. Prior to that, he was with Asset Management Groups in London and Dublin as the Head of Corporate Forex for large international specialist banking. Mr.Douglas Hulme holds degrees in Computers and Business from the University College Dublin, Ireland and from University of Manchester, England.
                      <br/>
                     </p>
                 </div>
@@ -319,7 +316,7 @@
                     <div class="line-process"></div>
                     <h5> COO </h5>
                     <p>
-               Mr. Logan joined GlobalGreen in 2014 as an Operations Manager after serving at several companies including MicroWorks, Minneapolis, MN as a Chief Operating Officer and also at Insara Tech. Inc. Mr. Logan has 9+ years experience as a change agent, a leader with excellent business acumen and a communicator. Mr. Logan holds a degree in Finance and also an accounting certification (ACCA).
+               Mr. Logan joined Global Green in 2014 as an Operations Manager after serving at several companies including MicroWorks, Minneapolis, MN as a Chief Operating Officer and also at Insara Tech. Inc. Mr. Logan has 9+ years experience as a change agent, a leader with excellent business acumen and a communicator. Mr. Logan holds a degree in Finance and also an accounting certification (ACCA).
                      <br/> <br/>
                     </p>
                 </div>
@@ -332,7 +329,7 @@
                     <div class="line-process"></div>
                     <h5> CFO </h5>
                     <p>
-                   Sarah Davis, CFO   Mrs. Davis joined GlobalGreen in 2015 as Finance Manager after serving as a Senior Manager at PwC, one of the big 5 global CPA firms. Mrs. Davis holds an LLM in Law, a B.A in Accounting and Information Systems and also an Accounting Certification (CPA).   </p>
+                   Sarah Davis, CFO   Mrs. Davis joined Global Green in 2015 as Finance Manager after serving as a Senior Manager at PwC, one of the big 5 global CPA firms. Mrs. Davis holds an LLM in Law, a B.A in Accounting and Information Systems and also an Accounting Certification (CPA).   </p>
                 <br/> <br/> <br/> <br/>
                 </div>
             </div>
@@ -345,7 +342,7 @@
                     <div class="line-process"></div>
                     <h5> VP Risk Management </h5>
                     <p>
-                      Leo Fernandez, VP Risk Management  Mr. Fernandez joined GlobalGreen in 2011 after holding positions in  a major accountancy firm in Ireland. He has over 9 years experience in the financial markets.  Mr. Fernandez holds a degree in Single Honours Mathematics from the National University of Ireland, Maynooth, a Master of Science in Finance and Capital Markets from Dublin City University and a Master of Arts in Mathematics from the National University of Ireland, Galway.  
+                      Leo Fernandez, VP Risk Management  Mr. Fernandez joined Global Green in 2011 after holding positions in  a major accountancy firm in Ireland. He has over 9 years experience in the financial markets.  Mr. Fernandez holds a degree in Single Honours Mathematics from the National University of Ireland, Maynooth, a Master of Science in Finance and Capital Markets from Dublin City University and a Master of Arts in Mathematics from the National University of Ireland, Galway.  
                   
                     </p>
                 </div>
@@ -357,7 +354,7 @@
                     <div class="line-process"></div>
                     <h5> VP Compliance </h5>
                     <p>
-                        Sean Conor, VP Compliance  Mr. Conor joined GlobalGreen in 2015. He has over 15 years’ compliance experience working in the financial services industry. Prior to joining GlobalGreen, he spent 10 years at Citco Bank Nederland N.V as Head of Compliance and MLRO. Mr. Conor is a Certified Anti-Money Laundering Specialist (ACAMS). He also holds diplomas in Compliance from The Irish Institute of Banking and Financial Regulation from the National College of Ireland.
+                        Sean Conor, VP Compliance  Mr. Conor joined Global Green in 2015. He has over 15 years’ compliance experience working in the financial services industry. Prior to joining Global Green, he spent 10 years at Citco Bank Nederland N.V as Head of Compliance and MLRO. Mr. Conor is a Certified Anti-Money Laundering Specialist (ACAMS). He also holds diplomas in Compliance from The Irish Institute of Banking and Financial Regulation from the National College of Ireland.
                     </p>
                 </div>
             </div>
