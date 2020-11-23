@@ -255,7 +255,7 @@
                             <span class="pe-7s-cash" style="color:#ff7e00"></span>
                             <h4>Start Earning Profits Weekly</h4>
                             <p>
-                                After signing up and making deposit, you'll start earning 4% of your deposited amount weekly.   </p>                        
+                         After you have signed up and made your deposit, you'll start earning from 5%  of your deposited amount weekly depending on your investment plan.   </p>                        
                         </div>
 
                     </div>
