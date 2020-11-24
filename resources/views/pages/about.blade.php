@@ -162,16 +162,7 @@
 
                 </div>
             </div>
-            <div class="col-lg-6 mb-30">
-                <div class="career-item">
-                  
-
-                    <p>
-                        Honesty, trust and integrity are at the heart of everything we say and do. We keep our promises
-                    </p>                                        
-
-                </div>
-            </div>
+            
            
 
         </div>
