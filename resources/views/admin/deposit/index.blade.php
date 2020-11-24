@@ -63,6 +63,8 @@
                                                 </thead>
                                                 <tbody>
                                                     @forelse($deposits as $deposit)
+                                                    @if(empty($deposit->user))
+                                                    @else
                                                     <tr>
                                                         <td>{{$deposit->transaction_id}}</td>
                                                         <td>{{$deposit->user->username}}</td>
@@ -122,6 +124,7 @@
                                                                     <i class="fa fa-check text-success"></i> Confirm Payment
                                                                 </button>
                                                             </form>
+                                                            @endif
                                                             @endif
                                                         </td>
                                                     </tr>

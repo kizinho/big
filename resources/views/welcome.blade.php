@@ -160,10 +160,10 @@
 
 
                                 <p class="mb-40">
-                                 Established in 2008 by Mr.Douglas Hulme. Global Green investment is a professional wealth management
-                            company with emphasis on Wealth Creation and Digital Assets across a wide range of traditional 
-                            and alternative investment options, including fixed income securities. We offer various insured ...
-                                    
+                                    Established in 2008 by Mr. Razouk Abdulrahman. Global Green investment is a professional wealth management
+                                    company with emphasis on Wealth Creation and Digital Assets across a wide range of traditional 
+                                    and alternative investment options, including fixed income securities. We offer various insured ...
+
                                     <br/><br/>
                                     <a href="{{url('about-us')}}"><button class="btn btn-primary" style="background-color: #ff7e00!important;color:#fff!important">Read more </button></a>
 
@@ -189,7 +189,7 @@
 
 </section>
 <div class="text-center mb-3 mt-3">
-   <b> CRYPTOCURRENCIES , COINS OF THE FUTURE</b>
+    <b> CRYPTOCURRENCIES , COINS OF THE FUTURE</b>
 </div>
 <div style="height:433px; background-color: #FFFFFF; overflow:hidden; box-sizing: border-box; border: 1px solid #56667F; border-radius: 4px; text-align: right; line-height:14px; font-size: 12px; font-feature-settings: normal; text-size-adjust: 100%; box-shadow: inset 0 -20px 0 0 #56667F; padding: 0px; margin: 0px; width: 100%;"><div style="height:413px; padding:0px; margin:0px; width: 100%;"><iframe src="https://widget.coinlib.io/widget?type=full_v2&theme=light&cnt=6&pref_coin_id=1505&graph=yes" width="100%" height="409px" scrolling="auto" marginwidth="0" marginheight="0" frameborder="0" border="0" style="border:0;margin:0;padding:0;"></iframe></div><div style="color: #FFFFFF; line-height: 14px; font-weight: 400; font-size: 11px; box-sizing: border-box; padding: 2px 6px; width: 100%; font-family: Verdana, Tahoma, Arial, sans-serif;"><a href="https://coinlib.io" target="_blank" style="font-weight: 500; color: #FFFFFF; text-decoration:none; font-size:11px">Cryptocurrency Prices</a>&nbsp;by Global Green</div></div>  <!--==================================================================== 
                                                         End Section About Us One
@@ -255,7 +255,7 @@
                             <span class="pe-7s-cash" style="color:#ff7e00"></span>
                             <h4>Start Earning Profits Weekly</h4>
                             <p>
-                         After you have signed up and made your deposit, you'll start earning from 5%  of your deposited amount weekly depending on your investment plan.   </p>                        
+                                After you have signed up and made your deposit, you'll start earning from 5%  of your deposited amount weekly depending on your investment plan.   </p>                        
                         </div>
 
                     </div>
@@ -293,91 +293,129 @@
             </div>
 
         </div>
+        <div class="accordion" id="accordion">
+            <div class="row content-process">
 
-        <div class="row content-process">
 
+                <div class="col-md-4 mb-4">
 
-            <div class="col-md-4 mb-4">
+                    <div class="item-process">
+                        <img src="{{asset('images/teams/tm-1.jpg')}}" style="width: 100%; height:200px">
+                        <div class="line-process"></div>
+                        <h4> Mr. Hulme  </h4>
+                        <h6 class="mt-2"> CEO </h6>
+                        <br/>
+                        <div  id="heading1">
+                            <a data-toggle="collapse" data-target="#collapse1" href="#"><button class="btn btn-primary"  style="background-color: #ff7e00!important;color:#fff!important">Read more </button></a>
+                        </div>
+                        <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#accordion">
+                            Mr. Hulme joined Global Green in 2010 as Director of Trading & Risk Management. Prior to that, he was with Asset Management Groups in London and Dublin as the Head of Corporate Forex for large international specialist banking. Mr.Douglas Hulme holds degrees in Computers and Business from the University College Dublin, Ireland and from University of Manchester, England.
+                        </div> 
 
-                <div class="item-process">
-                    <img src="{{asset('images/teams/tm-1.jpg')}}" style="width: 100%; height:200px">
-                    <div class="line-process"></div>
-                    <h5> CEO </h5>
-                    <p>
-               Mr. Hulme joined Global Green in 2010 as Director of Trading & Risk Management. Prior to that, he was with Asset Management Groups in London and Dublin as the Head of Corporate Forex for large international specialist banking. Mr.Douglas Hulme holds degrees in Computers and Business from the University College Dublin, Ireland and from University of Manchester, England.
-                     <br/>
-                    </p>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4">
+
+                    <div class="item-process">
+                        <img src="{{asset('images/teams/tm-7.jpg')}}" style="width: 100%; height:200px">
+                        <div class="line-process"></div>
+                        <h4>  Mr. Logan </h4>
+                       <h6 class="mt-2"> COO </h6>
+                        <br/>
+                        <div  id="heading2">
+                            <a data-toggle="collapse" data-target="#collapse2" href="#"><button class="btn btn-primary"  style="background-color: #ff7e00!important;color:#fff!important">Read more </button></a>
+                        </div>
+                        <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#accordion">
+                            Mr. Logan joined Global Green in 2014 as an Operations Manager after serving at several companies including MicroWorks, Minneapolis, MN as a Chief Operating Officer and also at Insara Tech. Inc. Mr. Logan has 9+ years experience as a change agent, a leader with excellent business acumen and a communicator. Mr. Logan holds a degree in Finance and also an accounting certification (ACCA).
+                        </div> 
+
+                    </div>
+                </div>
+
+                <div class="col-md-4 mb-4">
+
+                    <div class="item-process">
+                        <img src="{{asset('images/teams/tm-2.jpg')}}" style="width: 100%; height:200px">
+                        <div class="line-process"></div>
+                        <h4>   Mrs. Davis </h4>
+                        <h6 class="mt-2"> CFO </h6>
+                        <br/>
+                        <div  id="heading7">
+                            <a data-toggle="collapse" data-target="#collapse7" href="#"><button class="btn btn-primary"  style="background-color: #ff7e00!important;color:#fff!important">Read more </button></a>
+                        </div>
+                        <div id="collapse7" class="collapse" aria-labelledby="heading7" data-parent="#accordion">
+                            Sarah Davis, CFO   Mrs. Davis joined Global Green in 2015 as Finance Manager after serving as a Senior Manager at PwC, one of the big 5 global CPA firms. Mrs. Davis holds an LLM in Law, a B.A in Accounting and Information Systems and also an Accounting Certification (CPA).   </p>
+
+                        </div> 
+
+                    </div>
+                </div>
+
+                <div class="col-md-4 mb-4">
+
+                    <div class="item-process">
+                        <img src="{{asset('images/teams/tm-3.jpg')}}" style="width: 100%; height:200px">
+                        <div class="line-process"></div>
+                        <h4> Mr. Fernandez </h4>
+                       <h6 class="mt-2"> VP Risk Management </h6>
+                        <br/>
+                        <div  id="heading3">
+                            <a data-toggle="collapse" data-target="#collapse3" href="#"><button class="btn btn-primary"  style="background-color: #ff7e00!important;color:#fff!important">Read more </button></a>
+                        </div>
+                        <div id="collapse3" class="collapse" aria-labelledby="heading3" data-parent="#accordion">
+                           Leo Fernandez, VP Risk Management  Mr. Fernandez joined Global Green in 2011 after holding positions in  a major accountancy firm in Ireland. He has over 9 years experience in the financial markets.  Mr. Fernandez holds a degree in Single Honours Mathematics from the National University of Ireland, Maynooth, a Master of Science in Finance and Capital Markets from Dublin City University and a Master of Arts in Mathematics from the National University of Ireland, Galway.  
+
+                        </div> 
+
+                    </div>
+                </div>
+                <div class="col-md-4 ">
+
+                    <div class="item-process">
+                        <img src="{{asset('images/teams/tm-4.jpg')}}" style="width: 100%; height:200px">
+                        <div class="line-process"></div>
+                       <h4>  Mr. Conor </h4>
+                      <h6 class="mt-2"> VP Compliance </h6>
+                        <br/>
+                        <div  id="heading4">
+                            <a data-toggle="collapse" data-target="#collapse4" href="#"><button class="btn btn-primary"  style="background-color: #ff7e00!important;color:#fff!important">Read more </button></a>
+                        </div>
+                        <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordion">
+                              Sean Conor, VP Compliance  Mr. Conor joined Global Green in 2015. He has over 15 years’ compliance experience working in the financial services industry. Prior to joining Global Green, he spent 10 years at Citco Bank Nederland N.V as Head of Compliance and MLRO. Mr. Conor is a Certified Anti-Money Laundering Specialist (ACAMS). He also holds diplomas in Compliance from The Irish Institute of Banking and Financial Regulation from the National College of Ireland.
+                      
+                        </div> 
+
+                    </div>
+                </div>
+                <div class="col-md-4 ">
+
+                    <div class="item-process">
+                        <img src="{{asset('images/teams/tm-5.jpg')}}" style="width: 100%; height:200px">
+                        <div class="line-process"></div>
+                         <h4>  Mr. Peterson </h4>
+                       <h6 class="mt-2"> Non Executive Director </h6>
+                        <br/>
+                        <div  id="heading5">
+                            <a data-toggle="collapse" data-target="#collapse5" href="#"><button class="btn btn-primary"  style="background-color: #ff7e00!important;color:#fff!important">Read more </button></a>
+                        </div>
+                        <div id="collapse5" class="collapse" aria-labelledby="heading5" data-parent="#accordion">
+                           Ralph Peterson, Non Executive Director  Mr. Peterson currently serves as an advisory director for a leading hedge fund firm as well as holding several board. He spent his professional career at the heart of the global capital markets, with the Central Bank of Ireland and culminating as Managing Director with Morgan Stanley’s London Office.
+                         
+                        </div> 
+
+                    </div>
+                </div>
+                <div class="col-md-12 ">
+         <!--<iframe width="100%" height="100" src="https://www.youtube.com/embed/SgTpXv2QWkY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    -->
+                </div
+                <div class="mb-5">
+
                 </div>
             </div>
- <div class="col-md-4 mb-4">
-
-                <div class="item-process">
-                    <img src="{{asset('images/teams/tm-7.jpg')}}" style="width: 100%; height:200px">
-                    <div class="line-process"></div>
-                    <h5> COO </h5>
-                    <p>
-               Mr. Logan joined Global Green in 2014 as an Operations Manager after serving at several companies including MicroWorks, Minneapolis, MN as a Chief Operating Officer and also at Insara Tech. Inc. Mr. Logan has 9+ years experience as a change agent, a leader with excellent business acumen and a communicator. Mr. Logan holds a degree in Finance and also an accounting certification (ACCA).
-                     <br/> <br/>
-                    </p>
-                </div>
-            </div>
-
-            <div class="col-md-4 mb-4">
-
-                <div class="item-process">
-                    <img src="{{asset('images/teams/tm-2.jpg')}}" style="width: 100%; height:200px">
-                    <div class="line-process"></div>
-                    <h5> CFO </h5>
-                    <p>
-                   Sarah Davis, CFO   Mrs. Davis joined Global Green in 2015 as Finance Manager after serving as a Senior Manager at PwC, one of the big 5 global CPA firms. Mrs. Davis holds an LLM in Law, a B.A in Accounting and Information Systems and also an Accounting Certification (CPA).   </p>
-                <br/> <br/> <br/> <br/>
-                </div>
-            </div>
-
-
-            <div class="col-md-4 mb-4">
-
-                <div class="item-process">
-                    <img src="{{asset('images/teams/tm-3.jpg')}}" style="width: 100%; height:200px">
-                    <div class="line-process"></div>
-                    <h5> VP Risk Management </h5>
-                    <p>
-                      Leo Fernandez, VP Risk Management  Mr. Fernandez joined Global Green in 2011 after holding positions in  a major accountancy firm in Ireland. He has over 9 years experience in the financial markets.  Mr. Fernandez holds a degree in Single Honours Mathematics from the National University of Ireland, Maynooth, a Master of Science in Finance and Capital Markets from Dublin City University and a Master of Arts in Mathematics from the National University of Ireland, Galway.  
-                  
-                    </p>
-                </div>
-            </div>
-            <div class="col-md-4 ">
-
-                <div class="item-process">
-                    <img src="{{asset('images/teams/tm-4.jpg')}}" style="width: 100%; height:200px">
-                    <div class="line-process"></div>
-                    <h5> VP Compliance </h5>
-                    <p>
-                        Sean Conor, VP Compliance  Mr. Conor joined Global Green in 2015. He has over 15 years’ compliance experience working in the financial services industry. Prior to joining Global Green, he spent 10 years at Citco Bank Nederland N.V as Head of Compliance and MLRO. Mr. Conor is a Certified Anti-Money Laundering Specialist (ACAMS). He also holds diplomas in Compliance from The Irish Institute of Banking and Financial Regulation from the National College of Ireland.
-                    </p>
-                </div>
-            </div>
-            <div class="col-md-4 ">
-
-                <div class="item-process">
-                    <img src="{{asset('images/teams/tm-5.jpg')}}" style="width: 100%; height:200px">
-                    <div class="line-process"></div>
-                    <h5> Non Executive Director </h5>
-                    <p>
-                        Ralph Peterson, Non Executive Director  Mr. Peterson currently serves as an advisory director for a leading hedge fund firm as well as holding several board. He spent his professional career at the heart of the global capital markets, with the Central Bank of Ireland and culminating as Managing Director with Morgan Stanley’s London Office.
-                     <br/> <br/> <br/> <br/>
-                    </p>
-                </div>
-            </div>
-       <div class="col-md-12 ">
-<!--<iframe width="100%" height="100" src="https://www.youtube.com/embed/SgTpXv2QWkY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          -->
-       </div
-            <div class="mb-5"></div>
             <br/> <br/> <br/> <br/>
         </div>
-        
+
     </div>
 </div>
 

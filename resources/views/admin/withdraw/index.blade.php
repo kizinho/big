@@ -61,6 +61,8 @@
                                                 </thead>
                                                 <tbody>
                                                     @forelse($withdraws as $withdraw)
+                                                      @if(empty($withdraw->user))
+                                                    @else
                                                     <tr>
                                                         <td>{{$withdraw->transaction_id}}</td>
                                                         <td>{{$withdraw->user->username}}</td>
@@ -125,6 +127,7 @@
                                                             @endif
                                                         </td>
                                                     </tr>
+                                                    @endif
                                                 </tbody>
 
 

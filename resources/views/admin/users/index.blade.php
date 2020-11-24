@@ -157,6 +157,7 @@
                                                 </thead>
                                                 <tbody>
                                                     @forelse($users as $user)
+                                                    @if(empty($user))
                                                     <tr>
                                                         <td><a href="{{ url('view-user', $user->id) }}">{{$user->username}}</a></td>
                                                         <td>{{$user->email}}</td>
@@ -184,6 +185,7 @@
                                                             </a>
                                                         </td>
                                                     </tr>
+                                                    @endif
                                                 </tbody>
                                                 <div class="modal fade" id="edit{{$user->id}}">
                                                     <div class="modal-dialog">

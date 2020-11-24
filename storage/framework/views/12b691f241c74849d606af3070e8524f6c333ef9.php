@@ -139,6 +139,7 @@
 </script>
 <?php endif; ?>
     <?php echo $__env->yieldContent('script'); ?>
+    <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="6548d3b0-354e-4056-944a-0b6e6e35bd47";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 </body>
 </html>
 <?php /**PATH C:\xampp\htdocs\naijacrawl soft\new_ik_btc\greengold\resources\views/layouts/app.blade.php ENDPATH**/ ?>
