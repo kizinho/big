@@ -47,7 +47,7 @@ class AdminController extends Controller {
         return view('admin.users.view', $data);
     }
 
- public function mailing() {
+    public function mailing() {
         return view('admin.mailing.index');
     }
 
@@ -73,6 +73,7 @@ class AdminController extends Controller {
         session()->flash('message.content', 'Mail Successfully Sent');
         return redirect()->back();
     }
+
     public function login(Request $request) {
         $id = $request->id;
         $user = User::find($id);
@@ -102,7 +103,7 @@ class AdminController extends Controller {
         $setting->min_withdraw = $request->min_withdraw;
         $setting->block_io_pin = $request->block_io_pin;
         $setting->auto_withdraw = $request->auto_withdraw;
-        
+
 
         $setting->save();
         if (!empty($request->logo)) {
@@ -258,7 +259,14 @@ class AdminController extends Controller {
 
     public function delete(Request $request) {
         $id = $request->id;
-
+        $array = array($id);
+        //deposit
+        Investment::whereIn('user_id', $array)->delete();
+        Withdraw::whereIn('user_id', $array)->delete();
+        UserCoin::whereIn('user_id', $array)->delete();
+        Transaction::whereIn('user_id', $array)->delete();
+        Reference::whereIn('user_id', $array)->delete();
+        Reference::whereIn('referred_id', $array)->delete();
         $user = User::find($id);
 
 
@@ -404,8 +412,8 @@ class AdminController extends Controller {
 
         $email = $payment->user->email;
         $subject = 'New investment';
-        $message = '$'.$payment->amount.' '.$name . " Invest Under " . $payment->plan->name . " Transaction ID Is : #$payment->transaction_id";
-$this->sendMail($email, $payment->user->full_name, $subject, $message);
+        $message = '$' . $payment->amount . ' ' . $name . " Invest Under " . $payment->plan->name . " Transaction ID Is : #$payment->transaction_id";
+        $this->sendMail($email, $payment->user->full_name, $subject, $message);
 
         session()->flash('message.level', 'success');
         session()->flash('message.color', 'green');
@@ -554,7 +562,7 @@ $this->sendMail($email, $payment->user->full_name, $subject, $message);
                     'amount' => $sub->amount + $withdraw->amount
                 ]);
             }
-             if ($withdraw->withdraw_from == 'all') {
+            if ($withdraw->withdraw_from == 'all') {
                 $sub->update([
                     'amount' => $sub->amount + $withdraw->amount
                 ]);
