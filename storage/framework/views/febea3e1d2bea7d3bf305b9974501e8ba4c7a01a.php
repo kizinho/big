@@ -278,7 +278,22 @@
         </div>
     </div>
 </section>    
-
+<style>
+    .btn-circle{
+ 
+            padding: 10px 16px; 
+            border-radius: 35px; 
+            font-size: 12px; 
+            text-align: center; 
+            color: #ff7e00;
+            background-color: transparent; 
+            background-image: none;  
+            border-color: #ff7e00;
+    }
+    .btn-outline-primary:hover{
+      background-color: #ff7e00;    
+    }
+</style>
 <div class="work-process pt-120">
     <div class="overlay"></div>
     <div class="container">
@@ -287,7 +302,7 @@
 
             <div class="col-md-8 offset-md-2">
                 <div class="section-title text-center">
-                    <h3 class="color-white"> Our Teams </h3>
+                    <h3 class="color-white"> Our Services </h3>
                     <div class="line-title"></div>
                 </div>      
             </div>
@@ -299,17 +314,24 @@
 
                 <div class="col-md-4 mb-4">
 
+
                     <div class="item-process">
-                        <img src="<?php echo e(asset('images/teams/tm-1.jpg')); ?>" style="width: 100%; height:200px">
-                        <div class="line-process"></div>
-                        <h4> Mr. Hulme  </h4>
-                        <h6 class="mt-2"> CEO </h6>
+                        <h3 class="text-dark"> Real Estate  </h3> 
                         <br/>
+                        <img src="<?php echo e(asset('images/services/ser-1.jpg')); ?>" style="width: 150px; height:150px;border-radius: 50%">
+                        <div class="line-process"></div>
+
                         <div  id="heading1">
-                            <a data-toggle="collapse" data-target="#collapse1" href="#"><button class="btn btn-primary"  style="background-color: #ff7e00!important;color:#fff!important">Read more </button></a>
+                            <p>   Real estate investing involves the purchase, ownership, management, rental and/or sale of real estate for profit.
+                            </p>
+                            <br/>
+                            <a data-toggle="collapse" data-target="#collapse1" href="#"><button class="btn btn-outline-primary  btn-circle">Read more </button></a>
                         </div>
                         <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#accordion">
-                            Mr. Hulme joined Global Green in 2010 as Director of Trading & Risk Management. Prior to that, he was with Asset Management Groups in London and Dublin as the Head of Corporate Forex for large international specialist banking. Mr.Douglas Hulme holds degrees in Computers and Business from the University College Dublin, Ireland and from University of Manchester, England.
+                            <p>      Real estate investing involves the purchase, ownership, management, rental and/or sale of real estate for profit. Improvement of realty property as part of a real estate investment strategy is generally considered to be a sub-specialty of real estate investing called real estate development.
+                            </p>
+                            Global Green helps you grow your investment in pursuance of a home of your choice and in any location as well.
+
                         </div> 
 
                     </div>
@@ -317,16 +339,22 @@
                 <div class="col-md-4 mb-4">
 
                     <div class="item-process">
-                        <img src="<?php echo e(asset('images/teams/tm-7.jpg')); ?>" style="width: 100%; height:200px">
-                        <div class="line-process"></div>
-                        <h4>  Mr. Logan </h4>
-                       <h6 class="mt-2"> COO </h6>
+                        <h3 class="text-dark"> Cryptocurrency </h3> 
                         <br/>
+                        <img src="<?php echo e(asset('images/services/ser-2.jpg')); ?>" style="width: 150px; height:150px;border-radius: 50%">
+                        <div class="line-process"></div>
+
                         <div  id="heading2">
-                            <a data-toggle="collapse" data-target="#collapse2" href="#"><button class="btn btn-primary"  style="background-color: #ff7e00!important;color:#fff!important">Read more </button></a>
+                            <p>  
+                                A cryptocurrency exchange or a digital currency exchange is a business that allows customers to trade cryptocurrencies 
+                            </p>
+                            <br/>
+                            <a data-toggle="collapse" data-target="#collapse2" href="#"><button class="btn btn-outline-primary  btn-circle">Read more </button></a>
                         </div>
                         <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#accordion">
-                            Mr. Logan joined Global Green in 2014 as an Operations Manager after serving at several companies including MicroWorks, Minneapolis, MN as a Chief Operating Officer and also at Insara Tech. Inc. Mr. Logan has 9+ years experience as a change agent, a leader with excellent business acumen and a communicator. Mr. Logan holds a degree in Finance and also an accounting certification (ACCA).
+
+                            A cryptocurrency exchange or a digital currency exchange is a business that allows customers to trade cryptocurrencies or digital currencies for other assets, such as conventional fiat money or other digital currencies. Cryptocurrencies typically use a decentralised network to carry out secure financial transactions. Due to the massive popularity of cryptocurrencies over the past years, they have become a conventional and popular asset.
+                            The main purpose of this new technology is to allow people to buy, trade and invest without having to rely on banks or any other financial institutions.
                         </div> 
 
                     </div>
@@ -335,16 +363,20 @@
                 <div class="col-md-4 mb-4">
 
                     <div class="item-process">
-                        <img src="<?php echo e(asset('images/teams/tm-2.jpg')); ?>" style="width: 100%; height:200px">
-                        <div class="line-process"></div>
-                        <h4>   Mrs. Davis </h4>
-                        <h6 class="mt-2"> CFO </h6>
+                        <h3 class="text-dark"> Forex </h3> 
                         <br/>
+                        <img src="<?php echo e(asset('images/services/ser-3.jpg')); ?>" style="width: 150px; height:150px;border-radius: 50%">
+                        <div class="line-process"></div>
                         <div  id="heading7">
-                            <a data-toggle="collapse" data-target="#collapse7" href="#"><button class="btn btn-primary"  style="background-color: #ff7e00!important;color:#fff!important">Read more </button></a>
+                            <p>
+                                Global Green traders will meet all your trading needs with our profitable Forex trading strategies    
+                            </p>
+                            <br/>
+                            <a data-toggle="collapse" data-target="#collapse7" href="#"><button class="btn btn-outline-primary  btn-circle">Read more </button></a>
                         </div>
                         <div id="collapse7" class="collapse" aria-labelledby="heading7" data-parent="#accordion">
-                            Sarah Davis, CFO   Mrs. Davis joined Global Green in 2015 as Finance Manager after serving as a Senior Manager at PwC, one of the big 5 global CPA firms. Mrs. Davis holds an LLM in Law, a B.A in Accounting and Information Systems and also an Accounting Certification (CPA).   </p>
+                            Global Green traders will meet all your trading needs with our profitable Forex trading strategies. The currency market is considered to be the largest financial market with over $5 trillion in daily transactions, which is more than the futures and equity markets combined. With many years of active trading experience across multiple platforms and markets, the progressive and dynamic Global Green forex management team recognized that traditional web based forex brokers would be placed to help us get our own cut of the trillions circulating on daily basis.
+
 
                         </div> 
 
@@ -354,16 +386,20 @@
                 <div class="col-md-4 mb-4">
 
                     <div class="item-process">
-                        <img src="<?php echo e(asset('images/teams/tm-3.jpg')); ?>" style="width: 100%; height:200px">
-                        <div class="line-process"></div>
-                        <h4> Mr. Fernandez </h4>
-                       <h6 class="mt-2"> VP Risk Management </h6>
+                        <h3 class="text-dark"> Cannabis </h3> 
                         <br/>
+                        <img src="<?php echo e(asset('images/services/ser-4.jpg')); ?>" style="width: 150px; height:150px;border-radius: 50%">
+                        <div class="line-process"></div>
+
                         <div  id="heading3">
-                            <a data-toggle="collapse" data-target="#collapse3" href="#"><button class="btn btn-primary"  style="background-color: #ff7e00!important;color:#fff!important">Read more </button></a>
+                            <p>
+                                If you're thinking about investing in marijuana stocks but aren't quite sure when to jump in, financial advisors say NOW   
+                            </p>
+                            <br/>
+                            <a data-toggle="collapse" data-target="#collapse3" href="#"><button class="btn btn-outline-primary  btn-circle">Read more </button></a>
                         </div>
                         <div id="collapse3" class="collapse" aria-labelledby="heading3" data-parent="#accordion">
-                           Leo Fernandez, VP Risk Management  Mr. Fernandez joined Global Green in 2011 after holding positions in  a major accountancy firm in Ireland. He has over 9 years experience in the financial markets.  Mr. Fernandez holds a degree in Single Honours Mathematics from the National University of Ireland, Maynooth, a Master of Science in Finance and Capital Markets from Dublin City University and a Master of Arts in Mathematics from the National University of Ireland, Galway.  
+                            If you're thinking about investing in marijuana stocks but aren't quite sure when to jump in, financial advisors say NOW, before the global market becomes aware of this product. This is the right time to invest in it because Global Wealth Investment is here to make things safe and easier for you. We give everyday traders the opportunity to look over the shoulder of an equity analyst with a passion for the cannabis sector.
 
                         </div> 
 
@@ -372,17 +408,24 @@
                 <div class="col-md-4 ">
 
                     <div class="item-process">
-                        <img src="<?php echo e(asset('images/teams/tm-4.jpg')); ?>" style="width: 100%; height:200px">
-                        <div class="line-process"></div>
-                       <h4>  Mr. Conor </h4>
-                      <h6 class="mt-2"> VP Compliance </h6>
+                        <h3 class="text-dark"> Financial planning </h3> 
                         <br/>
+                        <img src="<?php echo e(asset('images/services/ser-5.jpg')); ?>" style="width: 150px; height:150px;border-radius: 50%">
+                        <div class="line-process"></div>
+
                         <div  id="heading4">
-                            <a data-toggle="collapse" data-target="#collapse4" href="#"><button class="btn btn-primary"  style="background-color: #ff7e00!important;color:#fff!important">Read more </button></a>
+                            <p>
+                                Our financial advisor is often responsible for more than just executing trades in the market on behalf of our prospective clients.   
+
+                            </p>
+                            <br/>
+                            <a data-toggle="collapse" data-target="#collapse4" href="#"><button class="btn btn-outline-primary  btn-circle"  >Read more </button></a>
                         </div>
                         <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordion">
-                              Sean Conor, VP Compliance  Mr. Conor joined Global Green in 2015. He has over 15 years’ compliance experience working in the financial services industry. Prior to joining Global Green, he spent 10 years at Citco Bank Nederland N.V as Head of Compliance and MLRO. Mr. Conor is a Certified Anti-Money Laundering Specialist (ACAMS). He also holds diplomas in Compliance from The Irish Institute of Banking and Financial Regulation from the National College of Ireland.
-                      
+                            <p> Our financial advisor is often responsible for more than just executing trades in the market on behalf of our prospective clients.
+                            </p>
+                            But use their knowledge and expertise to construct and personalized financial plans that aim to achieve the financial goals of clients.
+
                         </div> 
 
                     </div>
@@ -390,17 +433,39 @@
                 <div class="col-md-4 ">
 
                     <div class="item-process">
-                        <img src="<?php echo e(asset('images/teams/tm-5.jpg')); ?>" style="width: 100%; height:200px">
-                        <div class="line-process"></div>
-                         <h4>  Mr. Peterson </h4>
-                       <h6 class="mt-2"> Non Executive Director </h6>
+                        <h3 class="text-dark"> Retirement Planning  </h3> 
                         <br/>
+                        <img src="<?php echo e(asset('images/services/ser-6.jpg')); ?>" style="width: 150px; height:150px;border-radius: 50%">
+                        <div class="line-process"></div>
+
                         <div  id="heading5">
-                            <a data-toggle="collapse" data-target="#collapse5" href="#"><button class="btn btn-primary"  style="background-color: #ff7e00!important;color:#fff!important">Read more </button></a>
+                            <p>
+                                Workforce Optimization
+                                Saving for retirement can be a daunting task, but with a sound strategy, it’s well within reach. NerdWallet is
+                            </p>
+                            <br/>
+                            <a data-toggle="collapse" data-target="#collapse5" href="#"><button class="btn btn-outline-primary  btn-circle"  >Read more </button></a>
                         </div>
                         <div id="collapse5" class="collapse" aria-labelledby="heading5" data-parent="#accordion">
-                           Ralph Peterson, Non Executive Director  Mr. Peterson currently serves as an advisory director for a leading hedge fund firm as well as holding several board. He spent his professional career at the heart of the global capital markets, with the Central Bank of Ireland and culminating as Managing Director with Morgan Stanley’s London Office.
-                         
+                            <p>
+                                Workforce Optimization
+                            </p>
+                            <p>
+                                Saving for retirement can be a daunting task, but with a sound strategy, it’s well within reach. NerdWallet is here to bring clarity to retirement planning and set you on your path to success. Here you’ll find key resources, articles, and tools to better understand your options and find the right strategy for you.
+                            </p>
+                            <p>
+                                If you had the chance to double—or even quadruple—your retirement savings, you’d probably jump at that opportunity, right? Well, there’s one simple change you can make today that’s sure to boost your retirement savings.
+                            </p>
+                            <p>
+                                Quadruple Your Retirement Savings? Really?
+                            </p>
+                            <p>
+                                A CitadelTradings study of worldwide retirement saving habits discovered that people with some kind of retirement plan have more than three times as much in their nest egg than those with no plan at all.
+                            </p>
+                            <p>
+                                And savers who take it one step further by working with an investing advisor to put their plan to paper? Their average nest egg is a whopping 445% bigger than non-planners. That’s a big deal!
+                            </p>
+                            Now, did you catch that? By working with an advisor and by having a plan in place, you can supercharge your retirement savings. 
                         </div> 
 
                     </div>

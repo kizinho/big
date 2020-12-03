@@ -10,7 +10,7 @@
                     </div>
 
                     <p class="mb-30">GlobalGreen's main task is to extract the largest possible profit from exchange operations at crypto-currency/Forex trading markets. 
-					We guarantee a stable inflow of profit, as we are always searching for new, more appealing and profitable operation methods.</p>
+                        We guarantee a stable inflow of profit, as we are always searching for new, more appealing and profitable operation methods.</p>
 
 
 
@@ -83,23 +83,22 @@
                                         <span><i class="fas fa-angle-right"></i></span> FAQ
                                     </a>
                                 </li>
+                                <li>
+                                    <a href="img/license/incorporation.pdf" target="_blank">
+                                        <span><i class="fas fa-angle-right"></i></span> Certificate of Incorporation
+                                    </a>
+                                </li>
 
-                                <!--                                    <li>
-                                                                        <a href="img/license/incorporation.pdf" target="_blank">
-                                                                            <span><i class="fas fa-angle-right"></i></span> UK Certificate
-                                                                        </a>
-                                                                    </li>-->
-
-                                <!--                                    <li>
-                                                                        <a href="img/license/cert-of-incopration.pdf" target="_blank">
-                                                                            <span><i class="fas fa-angle-right"></i></span> VFSC License
-                                                                        </a>
-                                                                    </li>-->
-                                <!--                                    <li>
-                                                                        <a href="assets/WHITE-PAPER%20-CRYPTOTRADE-GROUP-LTD.pdf" target="_blank">
-                                                                            <span><i class="fas fa-angle-right"></i></span> White Paper
-                                                                        </a>
-                                                                    </li>-->
+                                <li>
+                                    <a href="img/license/global-green.pdf" target="_blank">
+                                        <span><i class="fas fa-angle-right"></i></span> Global Green Presentation PDF
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="assets/WHITE-PAPER%20-CRYPTOTRADE-GROUP-LTD.pdf" target="_blank">
+                                        <span><i class="fas fa-angle-right"></i></span> White Paper
+                                    </a>
+                                </li>
                             </ul>
                         </div>
 
@@ -166,20 +165,20 @@
                                     </a>
                                 </li>
                                 <?php endif; ?>
-								    <!-- Copyright By Me NourEgy  
-                                <li>
-                                    <a href="" target="_blank">
-                                        <i class="fab fa-telegram" style="color: #0088cc; font-size: 30px;"></i> TELEGRAM CHANNE
-                                    </a>
+                                <!-- Copyright By Me NourEgy  
+<li>
+<a href="" target="_blank">
+    <i class="fab fa-telegram" style="color: #0088cc; font-size: 30px;"></i> TELEGRAM CHANNE
+</a>
 
-                                    <a href="" target="_blank">
-                                        <i class="fab fa-whatsapp" style="color: #25D366; font-size: 30px;"></i> WHATSAPP GROUP
-                                    </a>
-									<a href="https://www.facebook.com/groups/649519328548810/?ref=share" target="_blank">
-                                        <i class="fab fa-facebook" style="color: #0000ff; font-size: 30px;"></i> FACEBOOK GROUP
-                                    </a>
-                                </li>
-								 -->
+<a href="" target="_blank">
+    <i class="fab fa-whatsapp" style="color: #25D366; font-size: 30px;"></i> WHATSAPP GROUP
+</a>
+                                    <a href="https://www.facebook.com/groups/649519328548810/?ref=share" target="_blank">
+    <i class="fab fa-facebook" style="color: #0000ff; font-size: 30px;"></i> FACEBOOK GROUP
+</a>
+</li>
+                                -->
                             </ul>
                         </div>
 
