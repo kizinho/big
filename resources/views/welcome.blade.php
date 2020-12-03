@@ -405,7 +405,7 @@
 
                     </div>
                 </div>
-                <div class="col-md-4 ">
+                <div class="col-md-4 mb-4">
 
                     <div class="item-process">
                         <h3 class="text-dark"> Financial planning </h3> 
@@ -430,7 +430,7 @@
 
                     </div>
                 </div>
-                <div class="col-md-4 ">
+                <div class="col-md-4 mb-4">
 
                     <div class="item-process">
                         <h3 class="text-dark"> Retirement Planning  </h3> 
