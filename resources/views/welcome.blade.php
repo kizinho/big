@@ -341,7 +341,7 @@
                     <div class="item-process">
                         <h3 class="text-dark"> Cryptocurrency </h3> 
                         <br/>
-                        <img src="{{asset('images/services/ser-2.jpg')}}" style="width: 150px; height:150px;border-radius: 50%">
+                        <img src="{{asset('images/services/ser-2.JPG')}}" style="width: 150px; height:150px;border-radius: 50%">
                         <div class="line-process"></div>
 
                         <div  id="heading2">
@@ -365,7 +365,7 @@
                     <div class="item-process">
                         <h3 class="text-dark"> Forex </h3> 
                         <br/>
-                        <img src="{{asset('images/services/ser-3.jpg')}}" style="width: 150px; height:150px;border-radius: 50%">
+                        <img src="{{asset('images/services/ser-3.JPG')}}" style="width: 150px; height:150px;border-radius: 50%">
                         <div class="line-process"></div>
                         <div  id="heading7">
                             <p>
@@ -388,7 +388,7 @@
                     <div class="item-process">
                         <h3 class="text-dark"> Cannabis </h3> 
                         <br/>
-                        <img src="{{asset('images/services/ser-4.jpg')}}" style="width: 150px; height:150px;border-radius: 50%">
+                        <img src="{{asset('images/services/ser-4.JPG')}}" style="width: 150px; height:150px;border-radius: 50%">
                         <div class="line-process"></div>
 
                         <div  id="heading3">
@@ -410,7 +410,7 @@
                     <div class="item-process">
                         <h3 class="text-dark"> Financial planning </h3> 
                         <br/>
-                        <img src="{{asset('images/services/ser-5.jpg')}}" style="width: 150px; height:150px;border-radius: 50%">
+                        <img src="{{asset('images/services/ser-5.JPG')}}" style="width: 150px; height:150px;border-radius: 50%">
                         <div class="line-process"></div>
 
                         <div  id="heading4">
@@ -435,7 +435,7 @@
                     <div class="item-process">
                         <h3 class="text-dark"> Retirement Planning  </h3> 
                         <br/>
-                        <img src="{{asset('images/services/ser-6.jpg')}}" style="width: 150px; height:150px;border-radius: 50%">
+                        <img src="{{asset('images/services/ser-6.JPG')}}" style="width: 150px; height:150px;border-radius: 50%">
                         <div class="line-process"></div>
 
                         <div  id="heading5">
