@@ -37,7 +37,7 @@
                         <div class="banner display-table text-left">
                             <div class="info-header table-cell">
                                 <div class="inner-banner" >
-                                    <h2 style="color:#fff!important">Welcome <br/>to Global Green Investment </h2>
+                                    <h2 style="color:#fff!important">Welcome <br/>to Global Green LTD. </h2>
                                     <p></p>
                                     <div class="text-header" style="color:#fff!important"><h5>We understand your goals and how to make your money work for you.</h5></div>
 
