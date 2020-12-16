@@ -471,8 +471,7 @@
                     </div>
                 </div>
                 <div class="col-md-12 ">
-         <iframe width="100%" height="100" src="https://youtu.be/kY4Ea_NVnJ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    
+       <iframe width="100%" height="100" src="https://www.youtube.com/embed/kY4Ea_NVnJ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
                 </div
                 <div class="mb-5">
 
