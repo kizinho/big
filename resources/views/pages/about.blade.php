@@ -38,7 +38,7 @@
                         <div class="overlay-about">
                             <div class="text-overlay">
                                 <div class="pos-text">
-                                  
+
                                     <span style="color:blue"><h5>Realising Ambitions Since 2008</h5></span>
                                 </div>
                             </div>
@@ -56,13 +56,20 @@
                         </div>
 
                         <p class="mb-25">
-                           
-                            Established in 2008 by Mr. Razouk Abdulrahman. Global Green investment is a professional wealth management
-                            company with emphasis on Wealth Creation and Digital Assets across a wide range of traditional 
-                            and alternative investment options, including fixed income securities. We offer various insured services involved in Blockchain with our prime interest in Digital currency trading, Forex, Real Estate, CBD and Financial Investment planning. Our qualified and licensed financiers manage and provide financial consulting services for investors. Throughout our history, we have strategically positioned ourselves to take advantage of growth opportunities within the global market on behalf of our clients. Our disciplined and consistent approach to investment management has helped us not only to maintain long-term relationships with our clients, but also to continue attracting and retaining good people.
-
-
-                    </div>
+                        <p> Global Green Ltd is a professional wealth management firm Established for prospective clients to invest and earn passively across a wide range of traditional and alternative investment options, including fixed income securities. 
+                        </p>
+                        <p>
+                            We offer various insured services involved in Blockchain with our prime interest in Cryptocurrency, Forex, Real Estate, CBD and Financial Investment planning. 
+                        </p>
+                        <p>
+                            We focus on providing a portfolio of investment management expertise to investors by leveraging on our diverse platforms with experience that enables us to understand fully the fund management needs. 
+                        </p>
+                        <p>
+                            Our qualified and licensed financiers manage and provide financial consulting services to investors. Throughout our history, we have strategically positioned ourselves to take advantage of growth opportunities within the global market on behalf of our clients. 
+                        </p>
+                        <p></p>
+                        Our disciplined and consistent approach to investment management has helped us not only to maintain long-term earning relationships with our clients, but also to continue attracting and retaining good people.
+                        </p>      </div>
                 </div>
 
 
@@ -136,7 +143,7 @@
 
             <div class="col-lg-6 mb-30">
                 <div class="career-item">
-                
+
 
                     <p>Our team is responsible for an investment entire life cycle and directly accountable for performance. Regional Investment Committee comprises of Global Green’s most senior talents to oversee all accounts and funds.
                     </p>
@@ -145,16 +152,16 @@
 
             <div class="col-lg-6 mb-30">
                 <div class="career-item">
-                  
+
 
                     <p>Our value is measured by the degree of positive change we bring about. We strive to make a difference to the people who believe in us ‐ our clients, our shareholders and business partners
-</p>
+                    </p>
 
                 </div>
             </div>
-              <div class="col-lg-6 mb-30">
+            <div class="col-lg-6 mb-30">
                 <div class="career-item">
-                  
+
 
                     <p>
                         Honesty, trust and integrity are at the heart of everything we say and do. We keep our promises
@@ -162,8 +169,8 @@
 
                 </div>
             </div>
-            
-           
+
+
 
         </div>
     </div>
@@ -175,6 +182,6 @@
 
 
 
-   
+
 
 @endsection
