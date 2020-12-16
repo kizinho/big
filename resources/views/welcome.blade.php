@@ -160,9 +160,9 @@
 
 
                                 <p class="mb-40">
-                                    Established in 2008 by Mr. Razouk Abdulrahman. Global Green investment is a professional wealth management
-                                    company with emphasis on Wealth Creation and Digital Assets across a wide range of traditional 
-                                    and alternative investment options, including fixed income securities. We offer various insured ...
+                                   Global Green Ltd is a professional wealth management firm Established for prospective clients to invest and earn passively across 
+                                   a wide range of traditional and alternative investment options, including fixed income securities...
+                     
 
                                     <br/><br/>
                                     <a href="{{url('about-us')}}"><button class="btn btn-primary" style="background-color: #ff7e00!important;color:#fff!important">Read more </button></a>
